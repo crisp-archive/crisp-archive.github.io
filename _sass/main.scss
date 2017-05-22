@@ -99,6 +99,9 @@ footer {
     }
     .project-title {
       font-size: 1.6rem;
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: ellipsis;
     }
     .project-description {
       color: #aaa;
