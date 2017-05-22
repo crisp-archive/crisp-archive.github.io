@@ -47,6 +47,14 @@ a {
   text-align: center;
 }
 
+@media (max-width: $breakpoint) {
+  .wrapper {
+    width: 100%;
+    padding-left: .8rem;
+    padding-right: .8rem;
+  }
+}
+
 .header-wrapper {
   margin-top: 4rem;
   margin-bottom: 4rem;
