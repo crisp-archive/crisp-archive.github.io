@@ -1,0 +1,27 @@
+---
+layout: nil
+---
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Crisp Archived Projects</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://code.cdn.mozilla.net/fonts/fira.css">
+    <link rel="stylesheet" href="/assets/css/style.css">
+  </head>
+  <body>
+    <div class="wrapper">
+      <header class="header-wrapper">
+        <a href="/"><div id="title">Crisp Archive</div></a>
+      </header>
+      <div class="content">
+        {{ content }}
+      </div>
+      <footer>
+        Copyright &copy; {{ site.time | date: "%Y" }}
+      </footer>
+    </div>
+  </body>
+</html>

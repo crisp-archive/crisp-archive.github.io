@@ -1,0 +1,42 @@
+- name: mzone
+  description: A win32 console based program for mathematics
+  lang: Visual C++
+- name: SoundTime
+  description: A desktop alarm on win32
+  lang: Visual C++
+- name: jekyll-google-analytics
+  description: A Liquid tag for embedding Google Analytics
+  lang: Ruby
+- name: jekyll-disqus
+  description: A Liquid tag plugin to embed disqus
+  lang: Ruby
+- name: ngx_http_markdown_module
+  description: Nginx Markdown Module, convert .md file to .html with specific header and footer
+  lang: C
+- name: chrome_tieba_service_caller
+  description: A simple Chrome Extension, helping Tieba developer to call Tieba Service via context menu
+  lang: JavaScript
+- name: SeuTube
+  description: Video sharing website based on HTML, SRTP(Student Research Training Program) of Southeast University
+  lang: PHP
+- name: wtml
+  description: (Microsoft) Word Tutorial Markup Language
+  lang: Python
+- name: solarise
+  description: Solar Power Calculator, an assignment project of QUT INN372-Agile Software Development
+  lang: Java
+- name: CEPT
+  description: Chemical Elements Periodic Table
+  lang: Visual C++
+- name: marine
+  description: A submarine simulation game built on Win32
+  lang: Visual C++
+- name: mosaic
+  description: A very simple jigsaw game with transparent UI
+  lang: Visual C++
+- name: saeblog
+  description: Former personal blog on SinaAppEngine
+  lang: PHP
+- name: go-spg
+  description: (Deprecated) Single Page Generator
+  lang: Go
