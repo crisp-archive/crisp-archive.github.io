@@ -16,6 +16,9 @@
 - name: chrome_tieba_service_caller
   description: A simple Chrome Extension, helping Tieba developer to call Tieba Service via context menu
   lang: JavaScript
+- name: pysvn-jumbo-repo
+  description: pysvn jumbo recipe
+  lang: Shell
 - name: SeuTube
   description: Video sharing website based on HTML, SRTP(Student Research Training Program) of Southeast University
   lang: PHP
