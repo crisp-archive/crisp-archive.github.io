@@ -89,9 +89,18 @@ footer {
 
 .project {
   text-align: left;
+  hyphens: auto;
 
   .project-item {
     margin-top: 2rem;
+
+    &:hover {
+      .project-title {
+        a {
+          text-decoration: underline;
+        }
+      }
+    }
 
     .project-lang {
       float: right;
